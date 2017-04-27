@@ -1,0 +1,11 @@
+---------------------------------------------------------
+PASSENGER: Karan Bengali
+
+Flight Number: 2
+Origin: Toronto Destination: Calgary
+Cost: $500.0 (CAD)
+
+Flight Information:
+Departure Date: 4/26/2017
+Departure Time: 4/26/2017
+Flight Duration: 4/26/2017
