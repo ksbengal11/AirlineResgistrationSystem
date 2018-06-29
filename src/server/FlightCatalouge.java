@@ -8,7 +8,7 @@ import javax.swing.DefaultListModel;
 /**
  * Class Flight Catalouge has a flight database class which it can use to
  * interact with the database. 
- * @author Karan Bengali and Naveed Kawsar
+ * @author Karan Bengali
  *
  */
 public class FlightCatalouge {
